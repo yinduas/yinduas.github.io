@@ -1,11 +1,12 @@
 {
-    "title":"印度阿三",
-    "subTitle":"Blog description",
+    "title":"印度阿三博客",
+    "subTitle":"安得广厦千万间，大庇天下寒士俱欢颜",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "displayTitle":"Meekdai",
+    "GMEEK_VERSION":"last",
+    "displayTitle":"印度🇮🇳阿三",
     "homeUrl":"http://blog.meekdai.com",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "email":"meekdai@163.com",
+    "email":"9999999@999.com",
     "startSite":"07/07/2024",
     "filingNum":"印度ICP无需备案",
     "onePageListNum":15,
@@ -29,6 +30,5 @@
     "bottomText":"转载请注明出处",
     "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":0,
-    "GMEEK_VERSION":"last"
+    "needComment":0
 }
